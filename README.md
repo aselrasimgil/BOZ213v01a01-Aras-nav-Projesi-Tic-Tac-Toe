@@ -1,9 +1,6 @@
 # BOZ213v01a01-Aras-nav-Projesi-Tic-Tac-Toe
 Asel Rasimgil 24040224 Tic Tac Toe Projesi
 
-
-
-
 # Oyuncu: 'O'     Bilgisayar: 'X'
 # Kurallar: Bilgisayar merkeze 'X' koyarak başlar. Oyuncu 1..9 arası boş bir kare seçer.
 
